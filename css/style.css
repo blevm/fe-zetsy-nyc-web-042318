@@ -49,3 +49,10 @@ h1 {
 	font-family: 'Baskerville', serif;
 	font-size: 500%;
 }
+
+h2 {
+	display: block;
+	color: rgb(127,153,145);
+	font-family: 'Baskerville', serif;
+	font-size: 200%;
+}
